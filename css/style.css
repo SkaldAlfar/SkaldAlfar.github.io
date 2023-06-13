@@ -594,14 +594,13 @@ a:focus {
 
 /* footer section*/
 .footer_section {
-  position: absolute;
+  margin-top: auto;
   font-weight: 500;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
   padding: 20px;
   background-color: #1d1d1d;
-  bottom: 0;
 }
 
 .footer_section p {
